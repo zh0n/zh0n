@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zh0n
 - 👀 I’m interested in codes
-- 🌱 I’m currently learning codes
-- 💞️ I’m looking to collaborate on codes
 - 📫 How to reach me anyway
 
 <!---
